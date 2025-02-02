@@ -1,0 +1,10 @@
+#define A 1
+#define OK A
+#define A1 OK
+#define US A1
+#define ONE US
+#define USA ONE
+#define HI USA
+#define HIGH HI
+#define YES HIGH
+#define YA YES
