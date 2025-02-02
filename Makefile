@@ -1,2 +1,3 @@
 America: 
-	@gcc -Wall fun.c -o funny
+	gcc -Wall main.c -o run
+	gcc -Wall fun.c -o funny
