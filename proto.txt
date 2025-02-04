@@ -1,0 +1,8 @@
+101010101 Proton
+010101010 Neutron
+101  +2/3 Up
+010  -1/3 Down
+110  +2/3 Top
+001  -1/3 Bottom
+011  +2/3 Charm
+100  -1/3 Strange
